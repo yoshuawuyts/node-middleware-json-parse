@@ -8,7 +8,7 @@
     "test": "standard && npm run deps && NODE_ENV=test node test",
     "test:cov": "standard && npm run deps && NODE_ENV=test istanbul cover test.js"
   },
-  "repository": "tabdigital/middleware-json-parse",
+  "repository": "TabDigital/node-middleware-json-parse",
   "keywords": [
     "json",
     "parse",

@@ -51,10 +51,10 @@ and call `next` when done. Only parses content if the
 [1]: https://nodejs.org/api/documentation.html#documentation_stability_index
 [2]: https://img.shields.io/npm/v/middleware-json-parse.svg?style=flat-square
 [3]: https://npmjs.org/package/middleware-json-parse
-[4]: https://img.shields.io/travis/tabdigital/middleware-json-parse/master.svg?style=flat-square
-[5]: https://travis-ci.org/tabdigital/middleware-json-parse
-[6]: https://img.shields.io/codecov/c/github/tabdigital/middleware-json-parse/master.svg?style=flat-square
-[7]: https://codecov.io/github/tabdigital/middleware-json-parse
+[4]: https://img.shields.io/travis/TabDigital/node-middleware-json-parse/master.svg?style=flat-square
+[5]: https://travis-ci.org/TabDigital/node-middleware-json-parse
+[6]: https://img.shields.io/codecov/c/github/TabDigital/node-middleware-json-parse/master.svg?style=flat-square
+[7]: https://codecov.io/github/TabDigital/node-middleware-json-parse
 [8]: http://img.shields.io/npm/dm/middleware-json-parse.svg?style=flat-square
 [9]: https://npmjs.org/package/middleware-json-parse
 [10]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
